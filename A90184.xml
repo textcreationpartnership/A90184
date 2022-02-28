@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquesse of Ormonds letter to His Majestie King Charls II. Wherein is truly related the manner of Collonel Jones sallying out of Dublin, Aug. 2. 1649. with the loss on both sides, and the prisoners taken. With the true state and condition of his army at this present before Dublin, which is beseiged with 40000 horse and foot. And the taking of the two strong castles of Ballishannon and Athy, Aug. 8. Whereunto is added His Majesties answer to his letter, Aug. 11. 1649.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90184</idno>
+            <idno type="STC">Wing O451</idno>
+            <idno type="STC">Thomason E571_16</idno>
+            <idno type="STC">ESTC R206096</idno>
+            <idno type="EEBO-CITATION">99865281</idno>
+            <idno type="PROQUEST">99865281</idno>
+            <idno type="VID">165350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165350)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquesse of Ormonds letter to His Majestie King Charls II. Wherein is truly related the manner of Collonel Jones sallying out of Dublin, Aug. 2. 1649. with the loss on both sides, and the prisoners taken. With the true state and condition of his army at this present before Dublin, which is beseiged with 40000 horse and foot. And the taking of the two strong castles of Ballishannon and Athy, Aug. 8. Whereunto is added His Majesties answer to his letter, Aug. 11. 1649.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the the year, M.DC.XLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p.4: Dublin, Aug. 9. 1649. Ormond and Ossory.</note>
+                  <note>Annotation on Thomason copy: "August 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Michael, d. 1649.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165350:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>The Marqueſſe of ORMONDS <hi>Letter to His Majeſtie</hi> KING CHARLS II.</p>
+            <p>Wherein is truly related the manner of Collonel <hi>Jones</hi> ſallying out of <hi>Dublin, Aug.</hi> 2. 1649. with the loſs on both ſides, and the Priſoners taken.</p>
+            <p>With the true ſtate and condition of his Army at this preſent before <hi>Dublin,</hi> which is beſeiged with 40000 Horſe and Foot.</p>
+            <p>And the taking of the two ſtrong Caſtles of <hi>Balliſhannon</hi> and <hi>Athy, Aug.</hi> 8.</p>
+            <p>
+               <hi>Whereunto is added His Majeſties Anſwer to his Letter,</hi> Aug. 11. 1649.</p>
+            <p>
+               <date>
+                  <add>August 22.</add>
+               </date>
+            </p>
+            <p>Printed in the Year, M.DC.XLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165350:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb n="1" facs="tcp:165350:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>The Marqueſſe of <hi>Ormonds</hi> Letter to His MAJESTIE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt I gave your Majeſtie notice of the reports of ſome Regiments of the En<g ref="char:EOLhyphen"/>gliſh Rebels (under the command of <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>) which as yet never came for <hi>Ireland:</hi> If any ſuch intention was (I believe) they were prevented by your Majeſties Ships; for I had information, ſome of the Rebels Ships were chaſed into <hi>Beaumorris, Angleſey</hi> and <hi>Milford Ha<g ref="char:EOLhyphen"/>vens.</hi>
+            </p>
+            <p>
+               <label>July 24.</label> After the taking of <hi>Dundalk, Tredah</hi> and <hi>Trim</hi> (of which I gave your Majeſtie accompt in my laſt) we drew with the body of our Army towards <hi>Dublin;</hi> and in our march ſurprized two Forts <hi>Jones</hi> was raiſing at <hi>Lowzey Hill,</hi> I cauſed their freſh water to be cut off: by means whereof, they were deprived of the benefit of their water mils; upon this the houſes at <hi>Lowzey Hill</hi> were ſet on fire, except the Colledge, out of which the Rebels were beaten (though not without ſome loſſe on both ſides) and putting a ſtrong guard therein:
+<pb n="2" facs="tcp:165350:3"/>
+               <!-- PDF PAGE 38 -->
+which upon occaſion might be relieved from the <hi>Kings-end,</hi> where moſt of my Lord <hi>Inchequin's</hi> foot were quartered to block up the River.</p>
+            <p>The next day I gave command (to Sir <hi>Thomas Armſtrong,</hi> with his Regiment and Sir <hi>William Vaughan's</hi>) to fall upon Sir <hi>Adam Lofthouſe</hi> his houſe at <hi>Rathfarnam,</hi> within three miles of <hi>Dublin,</hi> which in 24 hours was ſurrendred, with much treaſure in it. After we had drove away into our Quarters, all the Horſe and Cows that grazed within three miles of the City, we drew down with our whole Army to beſeige <hi>Dublin,</hi> conſiſting of 28000 Horſe and Foot; 3000 of which were commanded to <hi>Baggotfrath,</hi> on the South of the Town, and there to raiſe two Forts (which were of my Lord of <hi>Inchequin's</hi> foot, moſt of which had ſerved the Rebels formerly in ſeverall Garriſons we had taken, and liſted themſelves in his ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>
+               <label>Auguſt 2.</label> The Rebels of the City made a ſally out, and fell upon our Quarters at <hi>Rathmines</hi> and <hi>Baggotfrath,</hi> where my Lord <hi>Inchequ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n's</hi> foot Quar<g ref="char:EOLhyphen"/>ters lay (and whether through trechery or cowar<g ref="char:EOLhyphen"/>dize) conſiſting (as I have told your Majeſtie) for<g ref="char:EOLhyphen"/>merly of their party, that had taken up Arms upon ſurrender of Garriſons, many of which were kil<g ref="char:EOLhyphen"/>led and taken Priſoners upon thei<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt approach; we loſt alſo ſome peeces of Ordnance, which were but newly drawn down thither, and not planted: The Alarm being given Sir <hi>Thomas Arm<g ref="char:EOLhyphen"/>ſtrongs,</hi> and Sir <hi>William Vaughans,</hi> and Collonel <hi>Gerards</hi> Regiments, being of my Lord <hi>Iaafs</hi> Bri<g ref="char:EOLhyphen"/>gade,
+<pb n="3" facs="tcp:165350:3"/>
+               <!-- PDF PAGE 38 -->
+fell upon <hi>Joneſes</hi> party (which was 3000) the diſpute was hot on both ſides for an hour, but before our main body was come up (which was not engaged at all) the Rebels were retired into the Ci<g ref="char:EOLhyphen"/>ty, leaving dead upon the place above 400 men; and we hear they have above 200 of their men wounded, both of horſe and foot: the loſſe on our ſide was near as many as of theirs, they took a hundred Priſoners of ours, which is the moſt; I have ſent for a liſt of their names to have them exchanged.</p>
+            <p>Upon this, we drew off with our Army three miles from <hi>Dublin,</hi> where we embodyed the ſcattered Brigade with our Army, who up<g ref="char:EOLhyphen"/>on my <hi>Lords</hi> foot not ſtanding one ſhot, diſorder<g ref="char:EOLhyphen"/>ed them.</p>
+            <p>
+               <label>Auguſt 8.</label> We drew again our whole Army be<g ref="char:EOLhyphen"/>fore <hi>Dublin,</hi> with the additionall Forces not then joined with our body; My Lord <hi>Ards</hi> with 8000 Scots, 4000 of my Lord of <hi>clanrikards,</hi> my Lord <hi>Inchequin</hi> was in <hi>Munſter</hi> then with his two Regi<g ref="char:EOLhyphen"/>ments of Horſe, to ſuppreſſe ſome inſurrections in that Province occaſioned by ſome of Generall <hi>Oneal,</hi> party who ſince is joined with our Army, his Forces being 8000 horſe and foot.</p>
+            <p>We are now before the City with an Army of 40000 Horſe and Foot, and have ſtraitly be<g ref="char:EOLhyphen"/>ſeiged it, but <hi>Jones</hi> I believe will trouble us no more with his ſallies: neither do I fear <hi>Cromwel,</hi> dares he but venture to ſet footing in <hi>IRELAND;</hi> I have cauſed ſeverall
+<pb n="4" facs="tcp:165350:4"/>
+               <!-- PDF PAGE 39 -->
+works to be raiſed againſt them, and have almoſt finiſhed our Line, and hope ſhortly to give your Majeſtie a good accompt of this place.</p>
+            <p>
+               <label>Auguſt 8.</label> 4000 brave horſe of the Duke of <hi>Lo<g ref="char:EOLhyphen"/>rains</hi> are landed at <hi>Kingſale,</hi> and 5000 foot her Ma<g ref="char:EOLhyphen"/>jeſtie of <hi>Sweden</hi> hath ſent me: I had almoſt forgot to tell your Highneſſe of my Brothers death, who unfortunately was ſhot in this fight. Yeſterday we took two Garriſons of the Rebels, which were <hi>Balliſhannon</hi> and <hi>Athy;</hi> and ſince that two prizes were taken, two Merchants laden with Wines, which came very ſeaſonably to the Leaguer. In my next I doubt not but by Gods help to give your Majeſtie an accompt of this City, and hope to ſee you in full poſſeſſion of this Kingdom, maugre the fury and malice of all your traiterous and bloudy Enemies: I reſt,</p>
+            <closer>
+               <dateline>From the Leaguer before <hi>Dublin,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 9. 1649.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>ORMOND and OSSORY.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>POST-SCRIPT.</head>
+               <p>THere was a deſign by ſome of <hi>Cromwels</hi> Con<g ref="char:EOLhyphen"/>federates for the betraying of <hi>Cork</hi> to him for a landing place for his Forces from <hi>England,</hi> but was timely prevented by the Loyaltie and Care of this Gentleman the Bearer hereof, who can more at large inform your Majeſtie in every particular.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:165350:4"/>
+            <!-- PDF PAGE 39 -->
+            <head>His MAJESTIES Letter to the Marqueſſe of <hi>ORMOND.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Received yours the 11th of this preſent, with the good news of the landing of the Duke of <hi>Lorain's</hi> and the <hi>Swediſh</hi> Forces; I ſhall wait the good hour to hear of the ſurrender or taking of <hi>Dublin;</hi> which I ſhall deſire you to expedite, be<g ref="char:EOLhyphen"/>fore <hi>Cromwel's</hi> viſit, which I hope is prevented. I ſent My Servant, Mr <hi>Harbart,</hi> to you, but I bear not of his arrivall: My purpoſe (by Gods permiſſion) is to be with you within forty daies. <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <dateline>S. Jermains <date>Aug. 11. 1649.</date>
+               </dateline>
+               <signed>CHARLS II.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
